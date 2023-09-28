@@ -4,80 +4,40 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetoFaculdade
+namespace Ex._6
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //int l, c;
-            //double[,] notas = new double[3, 3];
-            //for (l = 0; l < 3; l++)
-            //{
-            //    for (c = 0; c < 3; c++)
-            //    {
-            //        Console.WriteLine("Informe a nota: ");
-            //        notas[l, c] = Convert.ToDouble(Console.ReadLine());
-            //    }
-            //}
-            //Console.Clear();
-            //Console.WriteLine("\nNotas digitadas:\n");
-            //for (l = 0; l < 3; l++)
-            //{
-            //    for (c = 0; c < 3; c++)
-            //    {
-            //        Console.Write(notas[l, c] + "\t");
-            //    }
-            //    Console.WriteLine();
-            //}
-            //Console.ReadKey();
-
-
-
-            //
-
-            double[,] bois = new double[5, 6];
-            int lin, col, lPesado = 0, cPesado = 0, lLeve = 0, cLeve = 0;
-            double media = 0, pesado = 0, leve = 100000;
-
-            for (lin = 0; lin < 5; lin++)
+            double[,] matriz = new double[4,3];
+            double MaiEstP2 = 0, MenEstP1 = 100000;
+            for (int l = 0; l < 4; l++)
             {
-                for (col = 0; col < 6; col++)
+                for (int c = 0; c < 3; c++)
                 {
-                    Console.WriteLine("Informe o Peso");
-                    bois[lin, col] = Convert.ToDouble(Console.ReadLine());
-
+                    Console.WriteLine($"Digite a quantidade do Armazém {l + 1}, Produto {c + 1}");
+                    matriz[l, c] = Convert.ToDouble(Console.ReadLine());
+                    Console.Clear();
+                    if (matriz[l, 2] > MaiEstP2) MaiEstP2 = l;
+                    if (matriz[l, 1] < MenEstP1) MenEstP1 = l;
                 }
             }
-
-            for (lin = 0; lin < 5; lin++)
+            Console.WriteLine("          Produto 1   Produto 2   Produto 3");
+            
+            for (int l = 0; l < 4; l++)
             {
-                for (col = 0; col < 6; col++)
+                Console.Write($"Armazém {l + 1}");
+                for (int c = 0; c < 3; c++)
                 {
-                    media += bois[lin, col];
-
-                    if (bois[lin, col] > pesado)
-                    {
-                        pesado = bois[lin, col];
-                        lPesado = lin;
-                        cPesado = col;
-                    }
-                    if (bois[lin, col] < leve)
-                    {
-                        leve = bois[lin, col];
-                        lLeve = lin;
-                        cLeve = col;
-                    }
-
+                    Console.Write($"    {matriz[l, c]}     ");
+                    
                 }
+                Console.WriteLine("\n");
             }
-            Console.WriteLine("O Boi mais Pesado está na Posição linha " + lPesado + " coluna " +
-                +cPesado + " e o peso é " + pesado + " Kg");
-            Console.WriteLine("O Boi mais Leve está na Posição linha " + lLeve + " coluna " +
-                +cLeve + " e o peso é " + leve + " Kg");
-            Console.WriteLine("A Média do Peso dos bois é " + media / 30 + " Kg");
+            Console.WriteLine($"A Maior Quantidade do Produto 2 está no armazém {MaiEstP2 + 1}");
+            Console.WriteLine($"A Menor Quantidade do Produto 1 está no armazém {MenEstP1 + 1}");
             Console.ReadKey();
-
         }
     }
 }
