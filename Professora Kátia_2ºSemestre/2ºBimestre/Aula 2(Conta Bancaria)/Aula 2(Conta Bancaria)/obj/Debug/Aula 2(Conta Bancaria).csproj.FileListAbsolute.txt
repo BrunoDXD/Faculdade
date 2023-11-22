@@ -1,0 +1,25 @@
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\bin\Debug\Aula 2(Conta Bancaria).exe.config
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\bin\Debug\Aula 2(Conta Bancaria).exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\bin\Debug\Aula 2(Conta Bancaria).pdb
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.Form1.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.Properties.Resources.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.TelaEspecial.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.TelaPoupanca.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.GenerateResource.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).pdb
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\bin\Debug\Aula 2(Conta Bancaria).exe.config
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\bin\Debug\Aula 2(Conta Bancaria).exe
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\bin\Debug\Aula 2(Conta Bancaria).pdb
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.Form1.resources
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.TelaEspecial.resources
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula_2_Conta_Bancaria_.TelaPoupanca.resources
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).exe
+C:\Users\bruno\OneDrive\Documentos\Aula 2(Conta Bancaria)\Aula 2(Conta Bancaria)\obj\Debug\Aula 2(Conta Bancaria).pdb
