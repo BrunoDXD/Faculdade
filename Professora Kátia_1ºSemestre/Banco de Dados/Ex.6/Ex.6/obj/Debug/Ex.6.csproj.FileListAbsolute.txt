@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Ex.6\Ex.6\bin\Debug\Ex.6.exe.config
+C:\Users\Bruno\Documents\Ex.6\Ex.6\bin\Debug\Ex.6.exe
+C:\Users\Bruno\Documents\Ex.6\Ex.6\bin\Debug\Ex.6.pdb
+C:\Users\Bruno\Documents\Ex.6\Ex.6\obj\Debug\Ex.6.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Ex.6\Ex.6\obj\Debug\Ex.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\Documents\Ex.6\Ex.6\obj\Debug\Ex.6.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Ex.6\Ex.6\obj\Debug\Ex.6.exe
+C:\Users\Bruno\Documents\Ex.6\Ex.6\obj\Debug\Ex.6.pdb
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\bin\Debug\Ex.6.exe.config
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\bin\Debug\Ex.6.exe
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\bin\Debug\Ex.6.pdb
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\obj\Debug\Ex.6.csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\obj\Debug\Ex.6.csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\obj\Debug\Ex.6.csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\obj\Debug\Ex.6.exe
+E:\PastaSegura\Trabalhos\Katia_1º_Semestre\Ex.6\Ex.6\obj\Debug\Ex.6.pdb
