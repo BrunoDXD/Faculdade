@@ -1,0 +1,11 @@
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\bin\Debug\Aula 2(Resolução).exe.config
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\bin\Debug\Aula 2(Resolução).exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\bin\Debug\Aula 2(Resolução).pdb
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula 2(Resolução).csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula 2(Resolução).csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula_2_Resolução_.Form1.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula_2_Resolução_.Properties.Resources.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula 2(Resolução).csproj.GenerateResource.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula 2(Resolução).csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula 2(Resolução).exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 2(Resolução)\Aula 2(Resolução)\obj\Debug\Aula 2(Resolução).pdb
