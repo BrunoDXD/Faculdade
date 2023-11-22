@@ -1,0 +1,8 @@
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\bin\Debug\POO4.0(Futebol).exe.config
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\bin\Debug\POO4.0(Futebol).exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\bin\Debug\POO4.0(Futebol).pdb
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\obj\Debug\POO4.0(Futebol).csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\obj\Debug\POO4.0(Futebol).csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\obj\Debug\POO4.0(Futebol).csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\obj\Debug\POO4.0(Futebol).exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\POO4.0(Futebol)\obj\Debug\POO4.0(Futebol).pdb
