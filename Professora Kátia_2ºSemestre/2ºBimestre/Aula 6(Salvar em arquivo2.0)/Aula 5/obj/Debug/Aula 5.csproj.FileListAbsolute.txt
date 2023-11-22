@@ -1,0 +1,11 @@
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\bin\Debug\Aula 5.exe.config
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\bin\Debug\Aula 5.exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\bin\Debug\Aula 5.pdb
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula_5.Form1.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula_5.Properties.Resources.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.GenerateResource.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula 5.exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 5\Aula 5\obj\Debug\Aula 5.pdb
