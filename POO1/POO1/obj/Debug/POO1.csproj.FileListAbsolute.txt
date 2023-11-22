@@ -1,8 +1,0 @@
-C:\Users\curso.ads2\source\repos\POO1\POO1\bin\Debug\POO1.exe.config
-C:\Users\curso.ads2\source\repos\POO1\POO1\bin\Debug\POO1.exe
-C:\Users\curso.ads2\source\repos\POO1\POO1\bin\Debug\POO1.pdb
-C:\Users\curso.ads2\source\repos\POO1\POO1\obj\Debug\POO1.csproj.AssemblyReference.cache
-C:\Users\curso.ads2\source\repos\POO1\POO1\obj\Debug\POO1.csproj.SuggestedBindingRedirects.cache
-C:\Users\curso.ads2\source\repos\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
-C:\Users\curso.ads2\source\repos\POO1\POO1\obj\Debug\POO1.exe
-C:\Users\curso.ads2\source\repos\POO1\POO1\obj\Debug\POO1.pdb
