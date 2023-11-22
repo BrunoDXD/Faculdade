@@ -1,0 +1,22 @@
+C:\Users\curso.ads2\Documents\Aula9\Aula9\bin\Debug\Aula9.exe.config
+C:\Users\curso.ads2\Documents\Aula9\Aula9\bin\Debug\Aula9.exe
+C:\Users\curso.ads2\Documents\Aula9\Aula9\bin\Debug\Aula9.pdb
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.csproj.AssemblyReference.cache
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.csproj.SuggestedBindingRedirects.cache
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.Form1.resources
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.Properties.Resources.resources
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.csproj.GenerateResource.cache
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.csproj.CoreCompileInputs.cache
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.exe
+C:\Users\curso.ads2\Documents\Aula9\Aula9\obj\Debug\Aula9.pdb
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\bin\Debug\Aula9.exe.config
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\bin\Debug\Aula9.exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\bin\Debug\Aula9.pdb
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.Form1.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.Properties.Resources.resources
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.csproj.GenerateResource.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.exe
+E:\PastaSegura\Trabalhos\Katia_2º_Semestre\2º Bimestre\Aula 1 - Herança\Aula9\obj\Debug\Aula9.pdb
