@@ -1,0 +1,20 @@
+ ---- Todos os comandos em JavaScript Começa em letra minuscula;
+    exemplos:
+    getElementByid
+    alert
+
+ ---- Toda Linha de comando termina com ";"
+
+ ---- Todo bloco termina com "}"
+  exemplos:
+     if(condição)
+{
+}
+     else
+{
+}
+
+ ---- [] = arrays
+
+ ---- () = Componente da função
+ 
