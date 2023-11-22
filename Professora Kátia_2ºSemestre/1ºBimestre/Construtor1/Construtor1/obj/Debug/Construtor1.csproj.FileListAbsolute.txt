@@ -1,0 +1,9 @@
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\bin\Debug\Construtor1.exe.config
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\bin\Debug\Construtor1.exe
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\bin\Debug\Construtor1.pdb
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\obj\Debug\Construtor1.csproj.AssemblyReference.cache
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\obj\Debug\Construtor1.FormAluno.resources
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\obj\Debug\Construtor1.csproj.GenerateResource.cache
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\obj\Debug\Construtor1.csproj.CoreCompileInputs.cache
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\obj\Debug\Construtor1.exe
+D:\PastaSegura\Trabalhos\Katia_2º_Semestre\Construtor1\Construtor1\obj\Debug\Construtor1.pdb

@@ -1,0 +1,8 @@
+E:\PastaSegura\Trabalhos\POO3.0\bin\Debug\POO3.0.exe.config
+E:\PastaSegura\Trabalhos\POO3.0\bin\Debug\POO3.0.exe
+E:\PastaSegura\Trabalhos\POO3.0\bin\Debug\POO3.0.pdb
+E:\PastaSegura\Trabalhos\POO3.0\obj\Debug\POO3.0.csproj.AssemblyReference.cache
+E:\PastaSegura\Trabalhos\POO3.0\obj\Debug\POO3.0.csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Trabalhos\POO3.0\obj\Debug\POO3.0.csproj.CoreCompileInputs.cache
+E:\PastaSegura\Trabalhos\POO3.0\obj\Debug\POO3.0.exe
+E:\PastaSegura\Trabalhos\POO3.0\obj\Debug\POO3.0.pdb

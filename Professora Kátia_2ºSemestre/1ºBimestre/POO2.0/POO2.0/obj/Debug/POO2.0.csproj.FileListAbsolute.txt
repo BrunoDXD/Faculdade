@@ -1,0 +1,8 @@
+E:\PastaSegura\Bruno\POO2.0\POO2.0\bin\Debug\POO2.0.exe.config
+E:\PastaSegura\Bruno\POO2.0\POO2.0\bin\Debug\POO2.0.exe
+E:\PastaSegura\Bruno\POO2.0\POO2.0\bin\Debug\POO2.0.pdb
+E:\PastaSegura\Bruno\POO2.0\POO2.0\obj\Debug\POO2.0.csproj.AssemblyReference.cache
+E:\PastaSegura\Bruno\POO2.0\POO2.0\obj\Debug\POO2.0.csproj.SuggestedBindingRedirects.cache
+E:\PastaSegura\Bruno\POO2.0\POO2.0\obj\Debug\POO2.0.csproj.CoreCompileInputs.cache
+E:\PastaSegura\Bruno\POO2.0\POO2.0\obj\Debug\POO2.0.exe
+E:\PastaSegura\Bruno\POO2.0\POO2.0\obj\Debug\POO2.0.pdb
