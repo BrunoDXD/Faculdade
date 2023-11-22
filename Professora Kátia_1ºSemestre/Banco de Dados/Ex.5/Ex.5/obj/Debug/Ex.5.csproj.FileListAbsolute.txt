@@ -1,8 +1,0 @@
-D:\Nova Pasta\katia\Ex.5\Ex.5\bin\Debug\Ex.5.exe.config
-D:\Nova Pasta\katia\Ex.5\Ex.5\bin\Debug\Ex.5.exe
-D:\Nova Pasta\katia\Ex.5\Ex.5\bin\Debug\Ex.5.pdb
-D:\Nova Pasta\katia\Ex.5\Ex.5\obj\Debug\Ex.5.csproj.AssemblyReference.cache
-D:\Nova Pasta\katia\Ex.5\Ex.5\obj\Debug\Ex.5.csproj.SuggestedBindingRedirects.cache
-D:\Nova Pasta\katia\Ex.5\Ex.5\obj\Debug\Ex.5.csproj.CoreCompileInputs.cache
-D:\Nova Pasta\katia\Ex.5\Ex.5\obj\Debug\Ex.5.exe
-D:\Nova Pasta\katia\Ex.5\Ex.5\obj\Debug\Ex.5.pdb
