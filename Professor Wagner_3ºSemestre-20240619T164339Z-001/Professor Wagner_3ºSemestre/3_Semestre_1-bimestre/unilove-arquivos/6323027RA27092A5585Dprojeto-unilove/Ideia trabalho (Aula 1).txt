@@ -1,0 +1,14 @@
+Alunos:
+Caio Patrocinio 6323151	
+Bruno Silva 6323027
+
+Ideia: Site de namoro estilo Tinder
+
+1º Página: Login ou Cadastro
+2º Página: Tela de configuração para busca de pessoas (Filtro de busca)
+3º Página: Tela com o perfil de pessoas a mostra com os botões (Recusar e Aceitar)
+A partir da 2º página, a tela contará com um cabeçalho na parte superior para acesso de outras paginas
+
+Cabeçalho: cabeçalho terá ícones para navegação de páginas (perfil próprio e chat)
+
+

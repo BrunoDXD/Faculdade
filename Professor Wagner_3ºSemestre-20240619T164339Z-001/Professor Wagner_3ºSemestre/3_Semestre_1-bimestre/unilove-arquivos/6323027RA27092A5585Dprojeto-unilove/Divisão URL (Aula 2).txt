@@ -1,0 +1,13 @@
+Url: https://www.unifaat.com.br/curso/atibaia/analise-e-desenvolvimentos-de-sistemas
+
+
+Protocolo: https
+ 
+Subdominio: wwww
+
+Dominio: unifaat 
+
+TLD: .com.br
+
+Caminho: /curso/atibaia/analise-e-desenvolvimentos-de-sistemas
+
